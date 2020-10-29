@@ -9,4 +9,5 @@ int main()
     std::cout << "Hello World!\n";
     int a = 42;
     return 0;
+    tady vznikne chyba
 }
