@@ -12,4 +12,8 @@ int main()
     int c = a + b;
     std::cout << c << std::endl;
     return 0;
+
+    fgsrhgsa
+    vyhlasuji valku vetvi
+
 }
